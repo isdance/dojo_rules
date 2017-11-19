@@ -3,3 +3,4 @@ My deadly skills:
 * .Net
 * Git
 * javascript
+* Node.js
